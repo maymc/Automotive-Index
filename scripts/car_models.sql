@@ -10,3 +10,15 @@ CREATE TABLE IF NOT EXISTS car_models
  year integer NOT NULL,
  PRIMARY KEY (id)
 )
+
+-- 25
+-- 23
+-- 31
+-- 223
+-- 59
+
+-- 3
+-- 3
+-- 11
+-- 238
+-- 46
